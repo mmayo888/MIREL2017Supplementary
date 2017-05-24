@@ -1,0 +1,9 @@
+Section 51.01(5): Administrative Penalties
+The amount of an administrative penalty that may be imposed under subsection (2) must not exceed
+(a)        in the case of a contravention referred to in subsection (2)(a), twice the amount by which the contribution or contributions exceed the limit prescribed by section 17(1) or 18(1), as the case may be, and in no case may the amount of the administrative penalty exceed $10 000 for each contravention;
+(b)        in the case of a contravention of section 16, 44.2(5) or 44.93(1), twice the amount that was contributed in contravention of that provision, and in no case may the amount of the administrative penalty exceed $10 000 for each contravention;
+(c)        in the case of a contravention referred to in section 48(1), (2)(b) or (3), $1000;
+(d)        in the case of a contravention referred to in section 49.1,
+(i)        $10 000 if the third party is a person, and
+(ii)        $100 000, if the third party is a trade union, employee organization, corporation or other organization;
+(e)        in the case of any other contravention, $10 000.

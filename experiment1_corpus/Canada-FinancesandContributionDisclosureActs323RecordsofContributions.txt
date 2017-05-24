@@ -1,0 +1,8 @@
+﻿Every registered party and registered constituency association shall file with the Chief Electoral Officer, in the form and manner approved by the Chief Electoral Officer,
+                               (a)        within 15 days after the end of each quarter of each year a return setting out
+                                      (i)        the total amount of all contributions received during the quarter that did not exceed $250 in the aggregate from any single contributor, and
+                                    (ii)        the total amount contributed, together with the contributor’s name and address, when the contribution of that contributor during the quarter exceeded an aggregate of $250,
+                                         and
+                               (b)        within the period during which an annual financial statement must be filed under section 42, a return setting out for the previous year
+                                      (i)        the total amount of all contributions received that did not exceed $250 in the aggregate from any single contributor, and
+                                    (ii)        the total amount contributed that, together with the contributor’s name and address, when the contribution of that contributor during the year exceeded an aggregate of $250,

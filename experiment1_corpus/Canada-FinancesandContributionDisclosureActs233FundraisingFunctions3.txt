@@ -1,0 +1,5 @@
+﻿If a fund-raising function is held by the sale of tickets by or on behalf of a registered party, registered constituency association or registered candidate, the amount of the contribution is to be determined under clause (a) or under clause (b), at the option of the registered party, registered constituency association or registered candidate:
+                    (a)        if the individual charge
+                                      (i)        is $50 or less, it is not considered to be a contribution unless the person who pays the charge specifically requests that it be so considered, in which case 1/2 of the amount is allowed for expenses and 1/2 is considered to be a contribution,
+                                    (ii)        is more than $50 but not more than $100, $25 is allowed for expenses and the balance is considered to be a contribution, and
+                                   (iii)        is more than $100, 25% of the amount is allowed for expenses and the balance is considered to be a contribution;

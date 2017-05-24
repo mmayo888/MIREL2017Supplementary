@@ -1,0 +1,4 @@
+﻿5.6. A particular title is considered to be a main multimedia title in relation to another title (in this section referred to as a “related title” ), if
+(1) it is produced by the corporation that produces the related title or by a corporation associated with it;
+(2) it meets the conditions of subparagraphs 2 and 3 of the first paragraph of section 5.4 or those of the first paragraph of section 6.4; and
+(3) it is established to Investissement Québec’s satisfaction that the total labour expenditure, in respect of the title, of the corporation that produces it is at least $1,000,000 or that it is reasonable to expect that that total will be at least $1,000,000.

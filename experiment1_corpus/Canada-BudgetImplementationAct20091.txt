@@ -1,0 +1,5 @@
+﻿(2) The tax payable under this Part by an individual on the individual’s taxable income or taxable income earned in Canada, as the case may be (in this subdivision referred to as the “amount taxable”) for a taxation year is
+(a) 15% of the amount taxable, if the amount taxable is equal to or less than the amount determined for the taxation year in respect of $40,726;
+(b) if the amount taxable is greater than $40,726 and is equal to or less than $81,452, the maximum amount determinable in respect of the taxation year under paragraph (a), plus 22% of the amount by which the amount taxable exceeds $40,726 for the year;
+(c) if the amount taxable is greater than $81,452, but is equal to or less than $126,264, the maximum amount determinable in respect of the taxation year under paragraph (b), plus 26% of the amount by which the amount taxable exceeds $81,452 for the year; and
+(d) if the amount taxable is greater than $126,264, the maximum amount determinable in respect of the taxation year under paragraph (c), plus 29% of the amount by which the amount taxable exceeds $126,264 for the year.

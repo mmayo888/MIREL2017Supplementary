@@ -1,0 +1,4 @@
+﻿An annual membership fee paid for membership in a political party or in a constituency association of that party, or in both, is not a contribution for the purposes of this Act if
+                               (a)        the fee or, when a fee is paid to the party and to a constituency association of that party, the total of those fees, does not exceed $50, and
+                               (b)        the political party and constituency association each maintain a membership list indicating the amount of the fee or fees paid by each member that is allocated to the political party or constituency association, as the case may be,
+but if the fee or total of those fees exceeds $50, the amount of the excess shall be considered as a contribution.
